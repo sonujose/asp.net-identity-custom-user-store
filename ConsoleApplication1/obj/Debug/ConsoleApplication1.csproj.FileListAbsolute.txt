@@ -1,0 +1,14 @@
+E:\PROJECTS_VS\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\PROJECTS_VS\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\PROJECTS_VS\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\PROJECTS_VS\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.dll
+E:\PROJECTS_VS\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+E:\PROJECTS_VS\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\PROJECTS_VS\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\PROJECTS_VS\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.xml
+E:\PROJECTS_VS\ConsoleApplication1\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+E:\PROJECTS_VS\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\PROJECTS_VS\ConsoleApplication1\ConsoleApplication1\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\PROJECTS_VS\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+E:\PROJECTS_VS\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\PROJECTS_VS\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
